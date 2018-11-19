@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-test_df = pd.read_csv('../data/test.csv')
-print(test_df)
+train_df = pd.read_csv('../data/train.csv')
 
+Y_train = train_df['']
 
